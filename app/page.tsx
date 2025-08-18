@@ -68,7 +68,7 @@ export default function ExpenseTracker() {
             </div>
             <div>
               <h1 className="text-sky-500 opacity-100 shadow-none font-bold text-3xl bg-transparent border-transparent">
-                Miang
+                miang
               </h1>
               <p className="mt-2 text-cyan-600">Suivez et analysez vos dépenses quotidiennes</p>
             </div>
